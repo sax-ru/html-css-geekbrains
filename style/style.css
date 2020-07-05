@@ -500,7 +500,6 @@ fieldset {
     color: #1F3F68;
 }
 
-
 .maps {
     margin-top: 46px;
     width: 100%;
@@ -587,6 +586,9 @@ fieldset {
         margin-bottom: 64px;
     }
 
+    .map {
+        padding: 0;
+    }
 
     .maps {
         margin-top: 16px;
